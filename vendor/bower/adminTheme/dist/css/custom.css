@@ -1,0 +1,19 @@
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 16px;
+}
+
+.nav-tabs {
+    margin-bottom: 0;
+}
+
+form div.required label.control-label:after {
+  content:" * ";
+  color:red;
+}
+
+.box-body {
+    padding: 24px;
+}
